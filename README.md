@@ -28,7 +28,7 @@ Enter handle → OTP verify → Describe a look → Best price → Apply rewards
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/curateai && cd curateai
+git clone https://github.com/pmayush/curateai/tree/main && cd curateai
 
 # 2. Install dependencies
 pip install streamlit anthropic
